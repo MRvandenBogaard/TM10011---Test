@@ -1,5 +1,8 @@
 # Hier zet ik wat code neer
 
+arr = [1,2,3]
+
+arr.append(7,8)
 
 # Hier voeg ik coole dingen toe want ik wil graag leren coderen
 
